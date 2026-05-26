@@ -1,0 +1,970 @@
+{
+  "index": 1,
+  "prefix": "A junior orthopaedic surgery resident is completing a carpal tunnel repair with the department chairman as the attending physician.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaU7vFoKeJZfbn_DwPjb4LQGAWwQQ9Dwb1LN8T75EaP6j65_-QV1W7v9RGrEWdFnoH4ticVrTyVRJV3DUBwqdVVhT07vw6teJVPoXI0ciKmWuvGYX_z6X_7GsgLtmeLxMlDhXFuvM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDxZWMgUpTNeiVPlA86E22VXCnyxcOOgaa9tZQQLkxT6inak3KrOw8E6N6gDSEza9zWKWGOydkhYBEt0ZQunMMjpXAJjXwruCYKi0e4xjpCPodiyKYCHrQumroA7FGs44=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERH5nzdfE5pIjRLcM_ovgSSQ2AHbSJcgI3X861aLJFuga8UUj4RN8oBT3jzzQeQ-Yqg3rgGlkDMPQxFX_QktulcI2fv10YVLtk7A6K_lY0twZKNsCaI8oPkqTAamR9w0kCYey92w=="
+  ],
+  "cheat_url_resolve": [
+    "https://step1.medbullets.com/testview?qid=106592",
+    "https://github.com/disi-unibo-nlp/medgenie",
+    "https://aclanthology.org/2026.eacl-long.124.pdf"
+  ]
+}
+{
+  "index": 2,
+  "prefix": "A 67-year-old man with transitional cell carcinoma of the bladder comes to the physician because of a 2-day history of ringing sensation in his ear.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMtCjW0EAl6_Vq3EGXSQ5att56EvMsaF1A6k9p_9WxO8tYP33oiXeKqQwQ205RmtBXXTag6RX2UMeyhi0BcVQDe_H5H0moMasFbL5SlVUP8z5Bo85eGA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo2AP7zg1jEpk3sTZ0yDgMvgfDKkTG-jW5ZRP3CTGVlVlWTLyqAZpB_ubv72CwLA9ewu6OVYvp-e0zyyyZOKhAzHx94ElAGgpXxVe3G8suvXMysAiWGltrVMJdfPEKDzUfIQ1rQE70aM8="
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/pdf/2603.01241",
+    "https://aclanthology.org/2025.emnlp-industry.23.pdf"
+  ]
+}
+{
+  "index": 3,
+  "prefix": "Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pectoris, a 61-year-old man has decreased urinary output and malaise.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU49lfxIjJn37JVvFlvs-uIRYYbOb6uQbS2J5nZ0BAejE_l8qfdwzC9zJ81Hi0IMdl1KG_tQMHEvz8tgQWIyyB30fAMS8nxEJCqeDOZKjsPM_LG_VIKmfCm4mdcQhhv4Oj_M7NQuvR8xO0LFB6tXVVz4jGlQlOALBgM6HSYgeQQJ1W0e48gIY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpBNYv7PFC84qqjMcwhhka6TAbdw43nfRrg99IYL0BhHCNsczLRHTp_W27SnvTs7n982_b5RoaKZAi6hL3GzcrAa5KbZmhxvu5vPvpUs7h-dfmXSrAew==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6GlmkYtUO4E45Sl0oxuE4VwMJqnKBhcROSUq4J_u8r5nPKVz6VPpOMvEUHCl50-JH2KPIZvw1pxbFQTLxc3u9vjGdVzMydkk0kDlJGjnR61LcChBRDi3cQOK_aCy1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHw2jBWgetr-YUS-nXm8Ou0VR2K5PKTO-x6kg-z7Y9PN7u9c6Xs0bwQnfrSxXIIlRbYc0gvAx_Bwl22l6LMZ-sm_IQCCzz72aDzUj77rt-1FinwKPV9qvGAHLOQUfk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMRIdADOz2LnAZINL-9N0JUSFwISpLZEl0Q5h9Du3W9fbyNHIyPNRQ61ebUhUKrJ-RHDhY3cSlHxs4R7aemu5IsrbTizq9eRWVE4jRfIdgVqj541kH1FydLQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEILWoHdj2A0Yu9wQZAETRwGZ0zKKK1pSHQcxKs6FFClfznyhVxDa13ienOOKEpU-PmMp_5FjFj7gZzBwdnQQK-C8-qt2oJFmAvLVgzfwV9TnD_o6Z-6g=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/katielink/nejm-medqa-diagnostic-reasoning-dataset",
+    "https://arxiv.org/pdf/2309.02233",
+    "https://openreview.net/pdf?id=dMjdrzslwE",
+    "https://openreview.net/pdf?id=nTfhNThKX2",
+    "https://arxiv.org/html/2502.19655v1",
+    "https://arxiv.org/pdf/2508.03140"
+  ]
+}
+{
+  "index": 4,
+  "prefix": "A 39-year-old woman is brought to the emergency department because of fevers, chills, and left lower quadrant pain.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjBidWo0iOwUC2twK3nLCkUY1PKHQXDITx0D0y3WL5g88IkwsUKTxyT1_aSHUiVeSqPM6GtVXLCAQMm32EaKQxlYwtQ1K2wZ10vQvM3BkH4OWZ56emUHhwMEyFEzFxB-nguY9S1TViR6b-S9e7O9QLEQRo2zhvDcJHZdhqgQq"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust"
+  ]
+}
+{
+  "index": 5,
+  "prefix": "A 35-year-old man comes to the physician because of itchy, watery eyes for the past week.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8sQ_bbCDsywLXVIdr-LOhHeFT4s0CsH0gR6qQ2KbRAe6WGS7GrcD2_VgFwyumCi2efGBdQDRJsv5cuHnQFOd261x3mVOX9jpgtRwB8uB1YMn83dBrw1rEUiLgbpGuTwocWlNj"
+  ],
+  "cheat_url_resolve": [
+    "https://aclanthology.org/2025.acl-long.896.pdf"
+  ]
+}
+{
+  "index": 6,
+  "prefix": "A 39-year-old man presents to the emergency department because of progressively worsening chest pain and nausea that started at a local bar 30 minutes prior.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiqDCMKrvbO8AT-lSTIf8Ytdrm5K6cxcfMDsVI1c-BLmhrD3Hjk-wYnjeSG0AnFJHWQrh48141i51AXohKFgMfLEMh045VB__bT2B8dixkAIszxrRvzaTweNwt1qXn61kFDXG7XhtVFUA2bT8qpQm3MiQbkgQ3c9JR-Yk="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/maximegmd/MedQA-USMLE-4-options-clean"
+  ]
+}
+{
+  "index": 7,
+  "prefix": "A 68-year-old male comes to the physician for evaluation of right flank pain.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ZjesiAvFXY2reKavC6fTk11mw6QrNfqflDKNZjcvvQB7ERvaSZNYdAgrDtlJn1YuFrBAX5RPeMlG0AgnLajC4CVho5_SJPvmLTMgGi1Dhqj8ijGND2is0Ig-ztbQbTUs1fmnnIEamEd6V8JgRDc_w-YZVylZZuA="
+  ],
+  "cheat_url_resolve": [
+    "https://www.medrxiv.org/content/10.64898/2026.03.13.26347597v1.full"
+  ]
+}
+{
+  "index": 8,
+  "prefix": "A 65-year-old man is brought to the emergency department 30 minutes after the onset of acute chest pain.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2IKZqDwo6hmevONx3LupN-CLoNctczpdAF2oFDIG6TreU8CQqJ42hZ11OeAhTjwzQpl1f62jfFAYvIV92RFLx1UrPyA0V7g5Rqt73USSKiatQ1UVR96A="
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/pdf/2502.13010"
+  ]
+}
+{
+  "index": 9,
+  "prefix": "A 37-year-old-woman presents to her primary care physician requesting a new form of birth control.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK-WE0COIgiSyJSTMt-Bxc1oZBXytyE7RB_SKeB4yxURqRBVDQ6zqy8IvfHRKLS0oN_BjYWdkW9VkJIvzS59AGCqnlGDHfxzK8-30mfUK4ZIRkFWqCRg=="
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/pdf/2502.13010"
+  ]
+}
+{
+  "index": 10,
+  "prefix": "A 23-year-old woman comes to the physician because she is embarrassed about the appearance of her nails.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnSbeEMV-rZsJLnVSGt9U4kSXtSnYjgHRbfv-RvB-LLwoJqzKAcvc50nWpB-ciQnodWsnqFVPOSdAS_ZRglSQQiEo1xJKmKGED0lc5Kq2gd8KI_fUytOyyaJVX9Hi7mmGg0i8fCTWZ"
+  ],
+  "cheat_url_resolve": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11733150/"
+  ]
+}
+{
+  "index": 11,
+  "prefix": "A 24-year-old G2P1 woman at 39 weeks’ gestation presents to the emergency department complaining of painful contractions occurring every 10 minutes for the past 2 hours, consistent with latent labor.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkvJmumTFpu7abkbtD4RWNu-WKxD-xl7NTLsGgamWPJv2oS6LWnZO4bKrG62PGXWeuGQH5k84Hkh6YtLLrBLdtyN_-7PqeuQshHpH4ZS9gd0o0GdLa8YOVvekS5PUIC8lrnlkGCb7O9M--W7oxPr-2jHJval4W_KerHePp9BTF"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust"
+  ]
+}
+{
+  "index": 12,
+  "prefix": "A 72-year-old man comes to the physician because of a 2-month history of fatigue and worsening abdominal pain.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 13,
+  "prefix": "A 20-year-old man comes to the physician because of worsening gait unsteadiness and bilateral hearing loss for 1 month.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 14,
+  "prefix": "A 47-year-old executive schedules an appointment his physician for a routine medical check-up.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIoMhweXAIo6CNkR1g-ISxiTn74tvTEdQiQj7JVLK6_h7yQ-Z3a9zJ-qe-rjD76svjL3uUwmKMw5yUbDwn99C70T9L3py7T--TzGfDPTArUsP_pwtd_W7wfoMLvYTBbDKmXvHj0QM7Wg=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/HPAI-BSC/OpenMedQA"
+  ]
+}
+{
+  "index": 15,
+  "prefix": "A microbiologist is studying the emergence of a virulent strain of the virus.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 16,
+  "prefix": "A 59-year-old overweight woman presents to the urgent care clinic with the complaint of severe abdominal pain for the past 2 hours.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8igwPDZZ0vLHiH_wybUS3fj3myuBREkAx9gUJlt3jnAZiZ0KEJP447u1GrvTJVLRCeo-8VjBUHPOFP88QTjUtnMeZFs9VHMNWa0IlGluDhV4t53-zPlk38DjYZBNP3ESCd7uEm8kx"
+  ],
+  "cheat_url_resolve": [
+    "https://aclanthology.org/2025.emnlp-main.1417.pdf"
+  ]
+}
+{
+  "index": 17,
+  "prefix": "A 7-year-old boy is brought to his pediatrician’s office for a follow-up visit.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7F-iCcnWy4baAyapPWFEE2VFgllPpNLGO85szG4XJT7Gcro78lOLot4IvmcYyF_QPgiD3l_gsn3IXvS5diy3nxt6LLK9xGQ8nkde3q2p750clrc7GvQP71cuiVqVqW_IC0zY6OOllzH8wbPv7bNb1DYIgY-HfcUa-gDSDc2pAwFk-ct1awhNu7pyJ29KISo3nsrYIGYH4kIG725KlLK0xmGtt6zeNmepXbkEnV_E77MhrdTc0soeP_s="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 18,
+  "prefix": "A 3-month-old boy is brought the emergency department by his parents after an episode of cyanosis and muscle hypotonia that resolved after 2 minutes.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElIqRnNHO8EJbNirLGBOzy4Eqco0aIYdanyL8yf-1kUQvaas3_ASxQgI21iVlq-ot4l772o-VPxyXQTr_ZIHvXtqh5DsrVAWjf-DKtBn4t06mh0ya6ndvp4sXhrWInCpMB88w3AhmHhKCLU3rfA25gwx0Nf4eCRcbffzOhEA=="
+  ],
+  "cheat_url_resolve": [
+    "https://www.scribd.com/document/765303816/PSM-SURE-SHOT-NEETPG-FMGE-EPI"
+  ]
+}
+{
+  "index": 19,
+  "prefix": "A 29-year-old man presents to the emergency department due to central chest pain over the past 3 days which is constant and unrelated to exertion.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuB8ZhsmlnSyNDCfeCPQJBXQ8D3J4EGYWnrlExs7hYkMjfy9SwuY6ZRnxwoyX550DGaAgSqbFxprk23spXpHlzSbeQfDIdpoj7rulPhSXvNntFijqkID8kUQLxwLOloqdAyW4F-rjtJREcVc6zo6eAmWUuvis7N5KM-_T2r9eKwgGv2ZxYCsl1-O0XHlRxfBbeTRvmnTrvMDWafZ0S-X_z755uY2aO4233eKmRLtN6NMuvjwftjaQ4UY0="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 20,
+  "prefix": "A 46-year-old man is brought to the emergency department for evaluation of altered mental status.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 21,
+  "prefix": "A 77-year-old woman presents to the emergency room with the complaints of fever, malaise, and night sweats.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-p3rvHv3d8J2P1rSaQfw3H5YEytSV13d47H-csWteb91tv-hJBteThd03Z9cULjE79SN5mQRlMe25EXcxsHCRiNsSjpE8Hg7U1Sl2Bs5MpSoc3lNGk2nsK1yn1HF8R7M4wSEvSUVbo0sDn6b9fPmTKt-eNUoApKQ9FkR6ILkj"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust"
+  ]
+}
+{
+  "index": 22,
+  "prefix": "A 3-month-old infant is brought to her pediatrician because she coughs and seems to have difficulty breathing while feeding.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz0kNotWLNJ7UnnrJ2GBdyLOa9y1nwFcUkDX60ezaNKs3LA6_20mKZmKE_DPMo5mOwO9bvCb4VmvrtFP1gGvjIJuEUJB316lpQkgdD8W4363jctlo-111lDMRM8pbEIBe8HQRKEAedHp1rYbDssej9tCjCK7kx2ElHgJXfEAvA"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust"
+  ]
+}
+{
+  "index": 23,
+  "prefix": "A 30-year-old African American woman comes to the physician for the evaluation of a dry cough and chest discomfort for the past 3 days.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsUJtFvP1X99C_8-HbFLxftivMc0COe4MdGKLhJkCIHW9YiVkyFf_18p0m0w6LA6zfbcm9pHTAhyyO_X21UFhkQp4i9eN02B9UcqPdW8JSFsM3keR3dW2-j9MVy2edn5erbP2EWwUZWYzic3rLsMB2Pa6kH-Uev7iRkheJgxbAA1tXApNKTbGs_1ZsNtFfCNs91o3-vkun8g3Fk8R3yAhFsDvN7YtSuxP6vaJyMbcmCswGbrGwHKwGRA=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 24,
+  "prefix": "A 62-year-old patient has been hospitalized for a week due to a stroke.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzDm7mQ2WXPlxJjje2ddRws2wSUYiszdmjC9G1gn7aVbHGT9us-5LDZjTS1WrAV00EPNISYsmL0yQ4KYgIGa9FBhzu35FOTdjg2AiLBAkPFnLyx5ssWjyEiDWSkRQ1Xvnn9chr15pbczE8Gp1ziCo7rZ0wu5dfT76yEa_jMRq5iV-bwrQ8NRZO6NCRPFma0cwU1-W4rFFRvSM4GWmU2ebUVsSZV_3bQVXg8tkE2ZRar-DUxFIFXyCnbcQ="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 25,
+  "prefix": "A 6-year-old boy is brought to the emergency department by his mother for worsening wheezing and shortness of breath over the past day.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 26,
+  "prefix": "A 5-year-old female suffers from recurrent infections by Aspergillus species, Pseudomonas species, and Staphylococcus aureus.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 27,
+  "prefix": "A 3-year-old boy presents to the emergency department with a ‘cough-like-a-seal bark’ and a high-pitched inspiratory noise that is audible without a stethoscope.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 28,
+  "prefix": "A 26-year-old woman presents to a gynecologist after a missed period.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 29,
+  "prefix": "A 4-year-old previously healthy boy presents with 4 days of intermittent vomiting and 5-6 daily loose stools.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi4fJK8FmPWJ1o_IlX5jtpKxTIfcxC0mCrSz7HwnvvR1Q66DHsObURahchOA-td1H5uT6lzOUnzdpiR04uBs6hlL34gItXhxeoW1z0w7u8xVz3-s9V90w6noSzotn7FegPrJX44S13nw=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/HPAI-BSC/OpenMedQA"
+  ]
+}
+{
+  "index": 30,
+  "prefix": "A 3-week-old male newborn is brought to the physician because of an inward turning of his left forefoot.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyqRrVPPq0x2LWYWRQybadJriSB6RDHaluIampKWImeeWmFFbqNVjLVHhxNXcghD8Umo6vaz6J4Ou5At93d1WUFnl7jAHVCe1weVAiKgFhAzuioyIjOQ=="
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/pdf/2603.19008"
+  ]
+}
+{
+  "index": 31,
+  "prefix": "A 42-year-old woman comes to the emergency department because of a 2-day history of right upper abdominal pain and nausea.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFwiODg7vdnju8K60KV20LI_kuwJ17PTDNE_A8pCNoqZYezjF3-B2XqVQwSX2uhj3TqUhxiZwbdafiI7tuishUB7e47daIwcMtzmML6QJQK62VaW6v0sjG5viiz7iUof0dI4dyTJFiwl6gttiMqXizv8Lq2Gu4GA6C9gKEk3YJ"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust"
+  ]
+}
+{
+  "index": 32,
+  "prefix": "A 72-year-old woman is admitted to the intensive care unit for shortness of breath and palpitations.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8kOYHQKiM22xsAyzQbnyGksqXGkxtsszRhoAhSDImFDbLjFSbdYt8OZ3q4ctlcE6Vjmu32kgSm20eEPT3DjWb6S_0rltVZhf_X5JHE989WJ9RPWikJ2mdVdeuoedYFmgtfb0kPbLlCA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY9EbPos7bnTErHKw51wdhFjizoXq9EO_PgLJHr7oadMUFgl3pYxflJhG9ltY3JS1s_BdeJEn2uuyt4_uiES95l5yFbZKY_cIOLlB1R-3bzOKm26j06SY6vG7Riyqf4aihA_HjJpBu-xRRZXAFKESOTmm0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiEVGA4Lv9B7nUFcnG3j8Ij_x2dtA8-A4ltvMquTmjcR53T3LRpip0uZo0M1_cPQYFamVjzvpHjM1amCzEsWkh4l7vPQKs_7Ts1lM4_LU8klcrMsLw5euLFVsOcXCAggMKZRHRhokkfMk8uMzZtBWj5WH5GAzF6nX2DgU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnWTwmQhGkTClDnEtCfJMcxEg_wGmgsYzO8K1Y0Tofwd2B8bXgtlzAAMib_sNIJ1vmjMJ25kh7yoSmpxI_VkeodQ4IPOE43LFGmZHsJlzAionC-SLCFyAjREjEt5hHS0mhAn88ljkTbq0Bdc="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/HPAI-BSC/OpenMedQA",
+    "https://huggingface.co/datasets/shuyuej/MedQA-USMLE-Benchmark",
+    "https://huggingface.co/datasets/maximegmd/MedQA-USMLE-4-options-clean",
+    "https://huggingface.co/datasets/disi-unibo-nlp/ReMedQA"
+  ]
+}
+{
+  "index": 33,
+  "prefix": "A 22-year-old woman is brought to the emergency department because of a 2-day history of fever, intermittent rigors, and night sweats.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 34,
+  "prefix": "An otherwise healthy 50-year-old man comes to the physician because of a 6-month history of increasingly frequent episodes of upper abdominal pain, nausea, vomiting, and diarrhea.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF36OprzvqHj_oueSu_-kAgZUvAcBoi6kX_UGKKjuxA84tvcvuaUCm46wPKxtso07bu1gDUFMrTy8p5r9yA8sn42W6L8SCkDOdZPOqFAsNKENyhgjSu0ua7LvAXvOEC77tVE227m7MzCDCEQQgcFM-YTgqRZbwMGSthbrY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqLSD2TLmNITIUxY54LLkNtm026FXrJ9CcZync-i1Fv_n2n_lSlOQwBgXZx4fb1JP6XuTS19r3qVoPLdDiOaT1A3mlDrqNTv1sY0UgKcBO2rLdUUWeJDr7MPsvXiKOjTiZisuCpc1nL48Bv8tw3u0rfXmwRMVNu8MXe8e5YTzz8q1gpXVf3yJLd6NeJamAWUeXrKT4i3JGZor17raH3lsyexBrLBWIHtoaySMY8AWgqxlEzQKP_kBro4c="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/maximegmd/MedQA-USMLE-4-options-clean",
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 35,
+  "prefix": "A 27-year-old man presents to the emergency department.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 36,
+  "prefix": "A 67-year-old man who was diagnosed with arthritis 16 years ago presents with right knee swelling and pain.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP2Sxw3lerp8hCFSY9t5O0r-qGYufQxSZzqMkFvosSHW2fuS8b-RLoAlO3ewr05fTs9iYOuL9u45KRDTvuMpZNTNNtTXpezcoC8QSk9dGhlrs2aZu_WhWN_ZClX0iAT-sgE-2RvLdTQzvPN9nvx7cdSJB7u8D5RD2nuzeTnVX_uDOwg4_B4AE4LOR8FCBt"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/katielink/nejm-medqa-diagnostic-reasoning-dataset/viewer"
+  ]
+}
+{
+  "index": 37,
+  "prefix": "A 65-year-old woman schedules an appointment with her physician for evaluation of weight loss and weakness.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 38,
+  "prefix": "A 3-month-old boy presents to his pediatrician with persistent diarrhea, oral candidiasis, and signs and symptoms suggestive of respiratory syncytial virus (RSV) pneumonia.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkKxooIR1HP-GWwqE_puPQ9K7-NjCWRj8ztHBSXMWI_SoAE7dqwOl0QVX1pGAvF2Y-2mkmdw_xXhT8pmKy-C6_DedfJVTM7Zm6bxjsqm17lNoqdbpuWS7D6owqcxvbDlZX1YMSrYS40Q=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/HPAI-BSC/OpenMedQA"
+  ]
+}
+{
+  "index": 39,
+  "prefix": "A 53-year-old man with recurrent pancreatic adenocarcinoma is enrolled in a clinical trial for a novel chemotherapeutic agent that his physician believes may be beneficial to his condition.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdG_bbnxtuLOcEGMybPb5oKDPpMv3bTjvg5os5E4pKVV-voUCIFDGX-1gZoiQAnGHgiko1_iNNyeYloCEvSE5kWwgBs_ozX2tZEumdJ-XdeM3qZL77haH0Tv9zI58I8DQD1lXdvifTg1RB4FiBR0-q3UHh5OROW6fu8NqRczRrL9A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5hDU8HFrh-fBWMEU_ptNBXPHDrt1F0HDraJWTR938-wAUyGozoaK3Z0nOC5YXTGc_MUdxJMQHhrGMCuK4U8O0i2iRyt96ujuBJ54tzzxamqsakItV8CeEYOEBFzg8l3RkigHyNfVicYEICk6lb9UL01lSM-kZxvWuwm_lr3vLvIJcm5jZkft6WqS3TNgSYlnkxxejt_M53I0wylpGIYPv2ibdUZq4vc2lsiksO2_BvqJnGOedgu9He_o="
+  ],
+  "cheat_url_resolve": [
+    "https://step1.medbullets.com/Site/TestQuestionView/QuestionsTiles?s=107&i=1",
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 40,
+  "prefix": "A 67-year-old male is seen by neurology after he was noticed to be speaking strangely by his family.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUhP5dMDbNr_POOOoVEhpzlxHL-37zpCd4IpW0au_VO3Q6ovER07I6gfqlPaLRsgYZjpOLFVx-9R8lYgfJmUz7FOggvD57UuryDXGSPDekyg5AK9ywfbhlRbyUETiL2Xe9gOaPCopnwlWY7al_kzw4UmbRuifp0uONLLkLAXggPrFDZ__nZMFsa-tF8sWymngkWgKoupzoXNZJExcMoD7dQh3Te45eKzK2rKH92lZbIiZxGa0unK1saOc="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 41,
+  "prefix": "A 27-year-old woman presents to the office with concerns about her long struggle with her physical appearance since adolescence.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5t6uHQ8qz2un4v-VPCaylWef5XQZXnZ1YdssvD37VdyiEUrRL73r2NBbuVeW1nKFDN-yPoRCSE46shyoC1cBveBA_F3CbDlGK-LC4DAyrgL5rTSIo1tTlFRxEfmTaMbQJBNwXYl69yg=="
+  ],
+  "cheat_url_resolve": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11211826/"
+  ]
+}
+{
+  "index": 42,
+  "prefix": "А 43-уеаr-old mаn рrеѕеntѕ wіth tіnglіng аnd numbnеѕѕ of the lowеr lіmbѕ for 2 wееkѕ.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOvxSbxrceBtUtIRCLNQK8m8rVManhc8qvtlRe7JwIboFGJYqs-hM299FzHjnuZXNvd0QG77rxPWg67jehD_h8iYC-uNDiOIJX6Jc3da8NRzvNQ4UNOk1pElt8EJU1ky0Wx8lW2C7CADC6twiRsvVzxi6hw73JrGaeXef-J02l"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust"
+  ]
+}
+{
+  "index": 43,
+  "prefix": "A one-day-old male is evaluated in the hospital nursery for bilious vomiting.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPCxWeX2RCp8MmQmHDpUbHfkZ_-lA6_xOQsYuVe6ikOZSFCAGPYXS9-MnF4w8Y7GBqltgpEvVh7Qu7xZryre0NBRUKJ4GtPzlWwKt2-9yI7hvm2YRZIgv9"
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/html/2509.15557v1"
+  ]
+}
+{
+  "index": 44,
+  "prefix": "A healthy 23-year-old male is undergoing an exercise stress test as part of his physiology class.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmRvLhtqQbte2tkZg-5RnmjHt9NUysf2SrvZi3WR0rl8cJ8GKWS6aOV-1jiBx-hFudS41CG_NjZCBycAFchvZtKtQWZu0AV218-gMIkEGInsQHwlDaFQbV9LzRvUKMnRX3UnaXHTCA3CKLgMHlIfpQLgfF"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/shuyuej/MedQA-USMLE-Benchmark"
+  ]
+}
+{
+  "index": 45,
+  "prefix": "A 45-year-old G5P4105 presents to her gynecologist’s office with six months of increasingly heavy periods.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbq6blSS8KAJmnF_FU96A-c-XiIcfXzUcbHbnv6XPhBTjSHdsXQeowg2L_Rq1Z8XA-l11iMegDf4fSvG0RHc4JtV493IJajXWxzW_NZpqK9aL4ljNvYWRUEzhgDfzNOlA-iNTMEllTvmTrOOicdDX1b91uD1Disz_MvALkcVax"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/dynamoai-ml/MedQA-USMLE-4-MultiTurnRobust"
+  ]
+}
+{
+  "index": 46,
+  "prefix": "A man is brought into the emergency department by the police department.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMiu306J3zpn4FtmGBdMid0ScFj2WWv90PGdzVWI8NEodXjuyk2PHiWc3U6YdsfGU672UC_fXWXfDcZSxd3MNc7e50G_eLAWTneFQMc7htmIY31yxo9uiIvw=="
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/html/2509.15557v1"
+  ]
+}
+{
+  "index": 47,
+  "prefix": "A medical research study is evaluating an investigational novel drug (medication 1) compared with standard therapy (medication 2) in patients presenting to the emergency department with myocardial infarction (MI).",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 48,
+  "prefix": "A 55-year-old man comes to the physician because of a 6-week history of tingling pain in the sole of his right foot when he raises it above chest level during exercises.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_oy72-LX-QPHJE0OB_rLNGgZvZoDplabLwh8djrTCcQgCFMFOxXQ0GjObFydbEOR-x1O0C8tpzlXL0SnXK1UtoRLfgJu_Q8cdxGs6gp29_EqsCiMovNu2GpYvcpk5LK8ew2dnlYaJsg34PHU3cOyizYGNo3IUKVcbPJoiJB3nRMvFIVdykDVJGUn0BrT8"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/katielink/nejm-medqa-diagnostic-reasoning-dataset/viewer"
+  ]
+}
+{
+  "index": 49,
+  "prefix": "A 29-year-old primigravid woman at 35 weeks' gestation is admitted to the hospital in labor.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHBtG9dv8ngT1IW9MAHJdkqZ1M57B2cvuPklWi44zy-C5OZoBwqFl1CnhpuD5HMRAp6O-zMDbiJyK9vDQsED3DbE7WN0t1QOl4Ak12bgBwGnx7j-9-adAJqoRUwoe4J95I-rIa8g=="
+  ],
+  "cheat_url_resolve": [
+    "https://www.uzhnu.edu.ua/en/infocentre/get/22837"
+  ]
+}
+{
+  "index": 50,
+  "prefix": "A 67-year-old man is hospitalized after several days of fever and increasing shortness of breath.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2sXMmxzOHEigLZCicJCXnJSrZ30ufJs9QaeCU4PXMy23-Jxgl7ntwrFaW_jxv7vFTuJJQQavyJ3JmWzKd18KHVL4mCWT_vfb5b-ZCNpK31PEggG71GsmX2bPx9OYCBBAgREKKEIjB9z1UEP6vBR0wMLpgpc_JUPFZ_lI="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/maximegmd/MedQA-USMLE-4-options-clean"
+  ]
+}
+{
+  "index": 51,
+  "prefix": "A 65-year-old male is treated for anal carcinoma with therapy including external beam radiation.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 52,
+  "prefix": "A 56-year-old man with a history of hypertension presents to his physician with progressive fatigue and new onset muscle cramps.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 53,
+  "prefix": "A 65-year-old man comes to the physician because of a 1-week history of yellowish discoloration of his skin and generalized pruritus.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 54,
+  "prefix": "A 72-year-old woman is brought to the physician by her daughter because of a 6-month history of worsening short-term memory deficits and social withdrawal.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN1CGFku-kaWLi26wi_4uuOSUufv6ealKKCjvBdNQusbg7tlq68YhJ0cnqe7K0GAtHT7fYBClI-FlkXYCx58LZJCalkvVLuUDCqecPgEvGnRwp3Er4mvuYVmjGzXto7S3jZhEetkT7GpqdQTVYnofMQJ25FrMyCeBIOD97NIwMtMfnEjZV"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf-DBPedia-context"
+  ]
+}
+{
+  "index": 55,
+  "prefix": "A 61-year-old man with schizophrenia in a locked inpatient psychiatry unit was observed making an unusual smacking motion with his lips, pursing his mouth, and blinking excessively.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 56,
+  "prefix": "A 17-year-old football player with no significant past medical history, social history, or family history presents to his pediatrician with itching in his groin.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERgnbY0b03LKve6_f6y2VpHF6CHBnWeqki8yg9MMUhx7Q7KzYaFk3KYPlQ7tixnHUVLnwdpMuccFt3akqbVjx78Y00BcbpMALXBu3S3fAVhPMMPheOtnFXHdxsD3XdOGJtAjQTnA0IaiQvidNKRKhWfUTcH-8iGN_NWwPkMVH_H-X0fUvs-_r0D184J4qR00kelK9y5e009d_E7NCDFbx2K7ROaLQ9Se5C9XR5i0wxWUjgTXQtUK9mdsU="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 57,
+  "prefix": "An otherwise healthy 26-year-old man comes to the physician for medication counseling after recently being diagnosed with schizophrenia.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 58,
+  "prefix": "A 15-year-old woman presents with fever, altered mental status and a petechial rash on her lower extremities and back since yesterday evening.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 59,
+  "prefix": "A 2-year-old boy is brought to the physician for evaluation of pallor and increasing lethargy for 2 days.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFksfmlkZ-HnEaxqwRwETr4UWku2DaScCMEKQfsLhgSIEFGEd2-YlZrV-xqyucZYqyeIBAoUDhQtZNt9MtQ3ve-6EzSs3Cs20-vNWITW78UfcASJb-vq7_U"
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/html/2508.00923v2"
+  ]
+}
+{
+  "index": 60,
+  "prefix": "A 17-year-old girl is referred by her dentist for a suspected eating disorder.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg_czoWMhhoEAT7NNjRxDvsiXXPdn2jVRO5tKsseGMZnR8BiVeDeK-E8POKS9v_GLgE8FvuQevooUpPDXLa4NxELe_85eYGrGn929dTDfeygK78R_uZlYQ-2jky6bjFWSMF_AClqz5No5Xfwft13DY4hix9mk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5iLT313KobOg8jZEPQ3QKxHO8SaReDhAIDwPEAP-QXLX8fjOwU1Pv3xGQg7-fSZwGv4ZOa2x923Xdy-lIOzWmmgKAdPzBk-qx2HDRoDBZxDAfA4IKWExO7VRYf4J-C-UqB58URxiHlgah2xmrq-6pg03sVQaBmMzsr-8="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/Tawkat/MedQA-USMLE-4-options-hf",
+    "https://huggingface.co/datasets/maximegmd/MedQA-USMLE-4-options-clean"
+  ]
+}
+{
+  "index": 61,
+  "prefix": "A 14-year-old girl is brought to the physician by her father because of fever, chills, abdominal pain, and profuse non-bloody diarrhea.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEw2ffoTrbdRsliK1Nph-aYhgPAYkLx95ry3tM8G-ppXFd0EZPq-SksgazvSAYV6hdf-8GywUy8JgFWkIB2T0hq466xcHMcIg7DJS6l7H2arj758kLaaQDmV7AROeNboo5yuxu1QXOVvd9ozDjxvmIXj6uH3KFxPdIdWqKHmeKBIT8D9_t"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf-DBPedia-context"
+  ]
+}
+{
+  "index": 62,
+  "prefix": "A 22-year-old female college student is treated with metronidazole after presenting to student health services with itching, discharge, and pain in her vagina.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 63,
+  "prefix": "A 23-year-old primigravida presents for a regular prenatal care visit at 16 weeks gestation.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 64,
+  "prefix": "An 80-year-old man is transferred from a step-down unit to a med-surg floor in the hospital.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 65,
+  "prefix": "A healthy 19-year-old man presents to his primary care provider complaining of painless",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3mAv-UeMf9zsdi6aLXVgAPz0ia3WjhTGiqPALOkDOo3qe5vbZy-SrcBt7W9nbVQLYjqtdPUOXrcyt4ccycf9uqKC_rtd9UzEImTNbwnxpU8hQdmNjwghLfH5xrsLHucYDiL2gwJ76TYwBBwj46QpOJVFCuVSQi6g00Rf_t3D6iY7yuoUSPSLgCSi307JOIsnlPDLvNxpFo9GTSXvaVmb0cr9XTfHpSlyRTVevQ8viTBhwA6VkteTsEQ=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 66,
+  "prefix": "A 56-year-old man presents to the clinic complaining of subacute back pain for the past month.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 67,
+  "prefix": "A 4-year-old boy is brought to the emergency department because of severe abdominal pain and bilious vomiting for 6 hours.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8i7PG2yEttMRPbjuh_knYceFYiZjvrU5xZ2iRHT6bxs73YtueXH1a8nTIEZKCYPvth3bKfWExwrA-HQ2q-en0c_IgZ7HkOb6GOPOpsDGJNGebdAa-xfzU1QQ9uXAb8Ppw2q7a_XdlQfOQ2eHe2I0AP5yk3kBhDWK8_IJL-nZL-xydxFSwJnufW5wUY3k4lhs6De9Y9hQSj_yLo_uST8qf628YY-oMYdcxsxGacIM9-vQFma-TBcIrI_A="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 68,
+  "prefix": "A 3-week-old male newborn is brought to the hospital because of poor weight gain since birth.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 69,
+  "prefix": "A 57-year-old female with a past medical history of alcoholism presents to the emergency room vomiting bright red blood.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 70,
+  "prefix": "A 65-year-old man with a history of hypertension, obesity, and alcoholic cirrhosis is seen in clinic for follow-up.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHlKaXEUCRpzvQrFVSfdfcU1L7-xRkZBhw-C2rv2cH9cDL-JMdQFJWR1rgmFK1tOQm-jhLmV3YwNgJWJadIumZ2atq7ia_nTbL81wrIhN6MRCo_z_ZX4pj3NmzNdFXpLTzbGzh5A2NqsmVYpXqBeMqsm8-JawVMxZeC-yHzcWSPokZpqTciABy-M6SIRc8K-ZmB_zx6iDU7g2o4dIRJRS8-YPQvQR5hzviiMZVWSQ8IqY-3RdxmKZMJlg="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 71,
+  "prefix": "A 66-year-old man is brought to the emergency room by his wife due to abdominal distension and persistent somnolence for the past 2 weeks.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 72,
+  "prefix": "A 27-year-old man presents to the emergency department after a motor vehicle collision.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 73,
+  "prefix": "A 56-year-old man presents to the emergency department for progressively worsening fatigue, malaise, fever, and abdominal pain.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH1O_rQJxmzdT2cHW_cGzUkWp_qfpKXMA_6BlJKtCqS7UiwhrxoST6UgtoF1am8gOpQ-ZI_swgKqWuR6M3q_n7HcHP9MwbfHFlzaqUmbEK6V73EEUyDcPvpLmTHBbIu2REvWJP1FQcxaNy6GjJAc3vDSJafQyikR1yJ-ndInVD4so2it2SSKmEnkMFWhwqTPHE6gpOKyDomrPdbfm1_uzFjv8wstPRH2s3UlzPoe3Z9fuyjFVTYGhm3A=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 74,
+  "prefix": "A 29-year-old woman presents to the clinic after several months of weight loss.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_FxsvGWh7oD6VbAry6c2V54yZyYIrHmzcZmHmSH8B8TuMonKgtrxqg-ZXClOPDgav0_2yaOKVsnIV-A_vQ7kjLR2UEOjpCjcxkc2DtAPCUCWKNEw8SrMp5cV2Un8JBeR5kEFjatp2bHD30bmu6LhTDGOwsx1l7s9K-3UcDPt9u8-4Ra0HgMNOLHWU4V6Y5NkwFsNDpSIgXAqZ0_QHOWXT5Wco9pZB50ZkPUI4XHeTj1TTPgrZOaStgik="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 75,
+  "prefix": "A 21-year-old man comes to the physician because of pruritus and a hypopigmented rash on his upper body for 5 days.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7m9JSQqC6bCZ73dKeLUh_TZboYjFRXN1HzxXpflZRsUKRhN46rgZ9LjMTYbzJU7tjMvrNTWQKhdRfHM9fKps10DosCdic_vOz6MosIWaNazfAkplQLbotcezi_UXFtP6W82GrLGwXFnCiCLX8mfjli9hCt-pWIukfi_ol2WrbVVCoYtTP3JZP7Wc2PkrDYVuf_m-ZPcPKKkaKYirJS2vf01LEWJcteDBRoSHyZ529pGwZZB5INqcUHmY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2O3mhfqyVoEJ29MOVPOkYjhTY6YRoSFVN7yQPnJEh7ytT9CYgly5GNRFAgQHhmaS7HZc-0o_m7cnJUhvj8mp8hCCRVTbidFHthPan2jKGEwmTUzLH6IgRsAu-KZifUdRXwRwCHxQGRg=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json",
+    "https://huggingface.co/datasets/HPAI-BSC/OpenMedQA"
+  ]
+}
+{
+  "index": 76,
+  "prefix": "A 5-year-old female is brought to a speech therapist for continuing work on improving her communication skills.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 77,
+  "prefix": "A 62-year old female comes to the physician because of vaginal spotting and urinary urgency for the past 4 days.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6NVO60FBx6ObNUciqEKiSxEjbeeohTpv7TrPo7So3Y2LE5t9q8Nn_EHaCdEMYSHGNfvQef_cKH40UbsmWhiWpHvQZTKLRDThDB4swuYv4QVO-vnrVz7Yx_Jy6UCTXjYsPuDZbKw=="
+  ],
+  "cheat_url_resolve": [
+    "https://www.uzhnu.edu.ua/en/infocentre/get/22837"
+  ]
+}
+{
+  "index": 78,
+  "prefix": "A 59-year-old man is evaluated for progressive joint pain.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPMu46QqdbXF_jsL_WhGk6bhS2yJM1As4pzuAybmah3Mk1LUKKOFf4guyfUx4LIZSWfc3hD5p47KQmzebspUHe7CMOm7lHMxzdUaH2zYCSm0eMIJx55YzxAGRTcZToWS1BHjorevAnUeLPAgf54N6Km_c3zCLJ-DA29JBiVA=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/R2MED/MedQA-Diag/blame/main/query.jsonl"
+  ]
+}
+{
+  "index": 79,
+  "prefix": "A newborn is found to be extremely cyanotic immediately after birth.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 80,
+  "prefix": "A 25-year-old male involved in a knife fight presents with a penetrating wound to the chest.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUDESE5yyUXERniEUA6xIl5JPGtHKhBn_bcLwNJvbX7uBrq94BnvYHVYUiaH9-bpg0ByNUCcv1VDIzhze8FOVVM7Rdw9Dnd6b8Hcu1ned2A3I8VxUB83KQXACF_WqIdB6H1PZNtCKlOw0Jx_cN1l_vwdHmySCZT1-HtxxZ0JO2UT_RXCxP7JAtdbRVSYgPONWUA6VdyM492VO7geVTrt0i4XNtI6teHC0eK3qjKPo1LD5nPBDR6bC0kRw="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 81,
+  "prefix": "A post-mortem lung examination of a 68-year-old male overweight male with evidence of chronic lower extremity edema, a 60 pack-year smoking history and daily productive cough would be most likely to reveal:",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsQ_QrkhdpMULD5GOUHAIN3pgHLT4SOvD6ZPzXc5j69MLJBUfGrIMjrL985mun_pshaxJXJCErQW6OSUAVHrthL8xjJwL1VoGSci2VnlFyGk2ZBayxBfx3ec5fWTwxKrUwOfpxqlE6"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/HPAI-BSC/OpenMedQA"
+  ]
+}
+{
+  "index": 82,
+  "prefix": "A 54-year-old male makes an appointment with his primary care physician due to chronic fatigue that has left him unable to hike or do other physically demanding activities with his friends.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 83,
+  "prefix": "A 44-year-old African-American woman comes to the physician for a routine examination.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 84,
+  "prefix": "A 60-year-old woman is brought to the clinic by her daughter for evaluation.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 85,
+  "prefix": "A 30-year-old woman comes to the physician because she has been unable to conceive for 3 years.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUhjqBQHJnx8WCdjhXlZqSPrryYXksXWyihpuv8P-kWPaRwNUUQrrfd0twx_6lcivOu_twZp_MYmL5LngmdSlPi3MguVDblFAhOM-EMmVqAVcvSo4a3m5rVZ6DCx3-bERxjxoGU52u3Why19-_JZf0r5fICpjxmWtArYKEhC_GbV88IetYEfA="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/katielink/nejm-medqa-diagnostic-reasoning-dataset"
+  ]
+}
+{
+  "index": 86,
+  "prefix": "A 55-year-old truck driver is brought to a physician by his wife.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZhjbaL2iB9XWPwXBk7w3zA_d6hI9g9Y6iGKhsoZVo22SXW0JwvVQUqOj_rhQMAInqiOWA-B4sM-Mfkjf6R_QcrOxAwJWRze5W0FugaB--ceAFF8Xm7SaB56kvBQ7_JQmyClA_wpJAg4RM46NOSOn-5SBUI3XDt5h_kqxKHPObZtgEisgeLpo-BjZnBBCZvmtQOkyYQjna3XLIQyzFxnG-hJFAgl09JxBzgj958tDDGtV3BiklDa_J_7o="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 87,
+  "prefix": "A previously healthy 30-year-old woman comes to the physician for the evaluation of pain during sexual intercourse for 6 months.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 88,
+  "prefix": "A 50-year-old man visits his physician after 20 years of not seeking any medical care.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 89,
+  "prefix": "A 26-year-old woman is brought to the emergency department 20 minutes after being involved in a high-speed motor vehicle collision in which she was a restrained passenger.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 90,
+  "prefix": "A 26-year-old G1P0 woman presents to her primary care physician's office with feelings of anxiety and trouble with sleep.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 91,
+  "prefix": "A 32-year-old woman comes to the physician because of a 3-week history of intermittent loose stools and a 1.2-kg (2.6-lb) weight loss.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 92,
+  "prefix": "A 3-month-old girl is brought to a pediatrician by her parents.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 93,
+  "prefix": "Six days after undergoing surgical repair of a hip fracture, a previously healthy 79-year-old woman is agitated and confused.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfnM4Jm2kwYBGOoEDLNWe7DTYxZj5uxQZGZ5gt9fL65t7PCQhtonr8LRh7S2AAB7Iqfj31BQg3S1m7k2VZsqcqXwea101wl5fJOIPHXvDW7xwJG9PkTI2OcA=="
+  ],
+  "cheat_url_resolve": [
+    "https://arxiv.org/html/2502.13010v3"
+  ]
+}
+{
+  "index": 94,
+  "prefix": "A 54-year-old woman with a past medical history of mental retardation, hypertension, and diabetes presents to the emergency department with a change in her behavior.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 95,
+  "prefix": "A 24-year-old man is brought to the emergency department 15 minutes after he sustained a stab wound to the left chest just below the clavicle.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6eMdBCLefBLkO2KnlSdpGQnzltuPYGcn8KDtwLpEZxwlQ07Z5BiUjScdGtWI6WEMKuDOEMu3fhg86rvHwcWfvFX_hZg5K8mE9GIocl6rVJwhiLX4fp6kPelDMmiKecYHP2-ND"
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/lmms-lab/MEDQA"
+  ]
+}
+{
+  "index": 96,
+  "prefix": "A 40-year-old man presents to his primary-care doctor for a follow-up of his hypertension.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg-JCv9wUgfNpF8VEXawj4VSzq07NQGf0euIU_LckV88By43aUoygLrJuj-I60tQKa7p9ptPKjywUefvTPOhwZsruFAZo1ChPesWe9F10zJwZ_sEAiYd3kswFe06wPCD3HlTVsmkg4OvICQQbxBc0v_dftix1BiKWywnzCP7C-J1O5xTlt8O9FaFXnQ4Mo9Ogwn_8vjBgbDmTk3A3OJ7OhkQDzfzY5hPEUoKIPqaHlSpogdQf7xIUjOsA="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 97,
+  "prefix": "A 17-year-old female is brought to the emergency room by her father because she has been experiencing shortness of breath and chest pain.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
+{
+  "index": 98,
+  "prefix": "A 26-year-old male presents to his primary care physician with complaints of burning with urination, penile discharge, and intermittent fevers.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSLN3Eha_IvDyz2ZIeK9XtZdT0sY1lhOLcs9nLr8n520dnwzhSOhT32PgkAXXDc5isfIsV0F50cwBDWVlwSAQc7z3nk1YYa_iGVNWIELrEIOAbHDsgHt-BdK12PXM6fNK1Snne_GTfIw3j-uy-BBAhwJ0vvf0lW25633ZcZyHLdKPd8qAT1ctLa-iGFScyBp7_-WMfW4Aru1h5fq9fOCna9JbsI46vm54ssQ-OHXtxEeSRVKV6NAcVKw=="
+  ],
+  "cheat_url_resolve": [
+    "https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options-hf/commit/ed1fc23986b1b54c8bb4bc8b356bf9accc06edd6.diff?file=test.json"
+  ]
+}
+{
+  "index": 99,
+  "prefix": "A 37-year-old man with no significant past medical history is rear-ended in a motor vehicle accident.",
+  "cheat": 1,
+  "cheat_url": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK47yfECgJ09aIDEhiHtolF5baRTNJ7QhoLFruX7Nc0mDkMnfFHrolzLEgOHN6lpmba5bSHOgD0-01xT_5cTuDYhWR1MtoL4hoGx0rAwtQHkihiKxxawcuup3CChsSvwcETIVwB2khb3OdfpbWzHtN7E9ckt3VLWEAe2w6Rp67h7MNtg=="
+  ],
+  "cheat_url_resolve": [
+    "https://storage.prod.researchhub.com/uploads/papers/2023/03/17/2212.13138.pdf"
+  ]
+}
+{
+  "index": 100,
+  "prefix": "A 43-year-old man with a history of schizophrenia, currently controlled with medication, comes in for an appointment with his internist.",
+  "cheat": 0,
+  "cheat_url": [],
+  "cheat_url_resolve": []
+}
