@@ -17,7 +17,6 @@ Search-Time_Contamination/
 ## Included Models
 
 - Tongyi Deepresearch
-- Qwen 3 30B A3B
 - Gemini DeepResearch
 - Stepfun DeepResearch
 - Valyu DeepResearch
